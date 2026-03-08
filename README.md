@@ -1,4 +1,4 @@
-# UX/UI Web Premium Style Selector — Claude Code Skill
+# UX/UI Premium Direction Style Selector — Claude Code Skill
 
 Deploy 8 radically different visual direction demos for any Next.js + Tailwind CSS project. Compare side-by-side, choose your aesthetic, then auto-generate production-ready theme tokens and components.
 
@@ -34,13 +34,13 @@ Each direction includes complete specs for:
 ## Installation
 
 ```bash
-npx skills add Luispitik/ux-ui-web-premium-style-selector@ux-ui-web-premium-style-selector
+npx skills add Luispitik/ux-ui-premium-direction-style-selector@ux-ui-premium-direction-style-selector
 ```
 
 Or install globally:
 
 ```bash
-npx skills add Luispitik/ux-ui-web-premium-style-selector@ux-ui-web-premium-style-selector -g -y
+npx skills add Luispitik/ux-ui-premium-direction-style-selector@ux-ui-premium-direction-style-selector -g -y
 ```
 
 ## Usage
@@ -95,7 +95,7 @@ Beyond landing pages, the skill adapts demo structure for:
 ## What's Included
 
 ```
-ux-ui-web-premium-style-selector/
+ux-ui-premium-direction-style-selector/
   SKILL.md                      # Main skill (workflow, steps 1-10)
   references/
     directions.md               # Complete specs for all 8 directions
