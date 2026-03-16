@@ -138,7 +138,17 @@ All animations respect `prefers-reduced-motion` automatically.
 
 ## Author
 
-Created by [Luis Salgado](https://salgadoia.com) — AI consultant helping businesses adopt AI with strategy, not hype.
+Created by **Luis Salgado** — **NorteIA** / **SalgadoIA**
+- Web: [salgadoia.com](https://salgadoia.com)
+- LinkedIn: [linkedin.com/in/luis-salgado-salgado](https://linkedin.com/in/luis-salgado-salgado)
+
+---
+
+> **Want custom skills like this, tailored to your business?**
+>
+> This is the generic, open-source version. At **NorteIA** we design custom skills for companies: client onboarding, proposal generation, sales process automation, and much more.
+>
+> Get in touch at [norteia.es](https://norteia.es) or [salgadoia.com](https://salgadoia.com)
 
 ## License
 
